@@ -1,0 +1,38 @@
+#cord {
+	width: 250px;
+	height: 250px;
+	border: 2px solid red;
+}
+
+#folder {
+	width: 128px;
+	height: 128px;
+	background-image: url(folder_1.png);
+}
+.box {
+	width: 30px;
+	height: 30px;
+	background: darkblue;
+}
+#frame {
+	width: 100%;
+	height: 250px;
+	border: 1px solid green;
+
+}
+#one {
+	position: absolute;
+	top: 0;
+	width: 50px;
+	height: 50px;
+	background: pink;
+
+}
+#bum {
+	position: absolute;
+	left: 0;
+	width: 100px;
+	height: 100px;
+	background: orange;
+	border-radius: 15px;
+}
